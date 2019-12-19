@@ -6,7 +6,7 @@
         nuxt-fundamentals
       </h1>
       <h2 class="subtitle">
-        My tremendous Nuxt.js project
+        My tremendous Nuxt.js projectttttt
       </h2>
       <div class="links">
         <nuxt-link
